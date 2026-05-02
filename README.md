@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Diego
 
-🎯 Focado em Análise de Dados.
-📊 Experiência com Python, Pandas e visualização de dados.
-📈 Interesse em transformar dados em decisões de negócio.
+🎯 Focado em Análise de Dados  
+📊 Experiência com Python, Pandas e visualização de dados  
+📈 Interesse em transformar dados em decisões de negócio  
 
 ---
 
