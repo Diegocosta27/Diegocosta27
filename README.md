@@ -1,8 +1,9 @@
 # 👋 Olá, eu sou Diego
 
-🎯 Focado em Análise de Dados  
-📊 Experiência com Python, Pandas e visualização de dados  
-📈 Interesse em transformar dados em decisões de negócio  
+
+🎯 Analista de Dados em formação focado em transformar dados em decisões de negócio  
+📊 Experiência com Python, Pandas e análise exploratória  
+📈 Projetos práticos com foco em faturamento, vendas e performance  
 
 ---
 
@@ -22,12 +23,12 @@ Investigação de queda no faturamento com base em dados de vendas e comportamen
 ## 🛠️ Tecnologias
 
 * Python
-* Pandas
-* Matplotlib
-* SQL (básico)
-* Power BI (básico)
+* SQL
+* Excel
+* Power BI
 
 ---
+
 
 ## 📌 Objetivo
 
